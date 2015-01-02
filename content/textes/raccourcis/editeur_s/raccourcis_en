@@ -1,0 +1,18 @@
+Ctrl + A : Select all text in document.<br />
+Ctrl + B : Apply a bold style to the selected text.<br />
+Ctrl + C : Copy selected text.<br />
+Ctrl + E : Exit programm by saving if necessary.<br />
+Ctrl + F : Search and/or replace text in the document.<br />
+Ctrl + I : Apply an italic style to the selected text.<br />
+Ctrl + M : Apply the default style to the selected text.<br />
+Ctrl + N : Create a new document.<br />
+Crtl + 0 : Open a file with managed extension.<br />
+Crtl + S : Save the document.<br />
+Ctrl + U : Apply an underlined style to the selected text.<br />
+Ctrl + V : Paste a text in the document.<br />
+Ctrl + X : Cut selected text.<br />
+Ctrl + W : Save as the document.
+<br /><br />
+Alt + H : Open this help window.<br />
+Alt + J : Open an information window about JEditor.<br />
+Alt + W : Close the current window.

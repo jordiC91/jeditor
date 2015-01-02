@@ -1,0 +1,18 @@
+Ctrl + A : Sélectionne tout le texte présent.<br />
+Ctrl + B : Applique sur le texte sélectionné le style gras.<br />
+Ctrl + C : Copie dans le presse-papier le texte sélectionné.<br />
+Ctrl + E : Quitte le programme en demandant d'enregistrer si nécessaire.<br />
+Crtl + F : Permet de chercher et/ou remplacer du texte dans le document.<br />
+Ctrl + I : Applique sur le texte sélectionné le style italique.<br />
+Ctrl + M : Applique sur le texte sélectionné le style par défaut.<br />
+Ctrl + N : Créer un nouveau document.<br />
+Crtl + 0 : Ouvre un fichier s'il possède une des extentions gérées.<br />
+Crtl + S : Enregistre le document.<br />
+Ctrl + U : Applique sur le texte sélectionné le style souligné.<br />
+Ctrl + V : Colle dans le document le texte présent dans la presse-papier.<br />
+Ctrl + X : Coupe le texte sélectionné.<br />
+Ctrl + W : Enregistrer sous le document.
+<br /><br />
+Alt + H : Ouvre cette fenêtre d'aide.<br />
+Alt + J : Ouvre une fenêtre d'information sur JEditor.<br />
+Alt + W : Ferme la fenêtre courante de l'éditeur.
